@@ -1,0 +1,13 @@
+:root{
+    --main-color:#50658e;
+    --sec-color:#2766bb;
+    --light-blue:#1b47a1;
+    --dark-blue:#151c2e;
+    --dark-white:#e4e7ee;
+    --white:#ffff;
+    --white-gray:#b2bfe0;
+    --light-gray:#50658e;
+    --default-font-size:16px;
+    --upper-case:uppercase;
+    --font-weight:bold;
+}
